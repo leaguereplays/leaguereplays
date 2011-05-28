@@ -1,0 +1,3 @@
+For now leaguereplays website and client code is closed source, at the request of Riot Games.
+
+We will be using this public project for issue tracking and as a development and testing wiki.
